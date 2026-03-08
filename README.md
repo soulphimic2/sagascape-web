@@ -1,5 +1,3 @@
-# Complete README.md for Your SagaScape React App
-
 # SagaScape - Old Norse Reading Web Application
 
 ## Overview
