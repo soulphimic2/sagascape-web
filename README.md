@@ -4,7 +4,7 @@
 
 ## Overview
 
-I am about both historical linguistics and modern software development. I created SagaScape to explore how ancient texts can be made accessible through interactive web technologies. This project represents my journey in mastering React with TypeScript while building a tool that brings Old Norse literature to life for modern readers.
+I am interested in  both historical linguistics and modern software development. I created SagaScape to explore how ancient texts can be made accessible through interactive web technologies. This project represents my journey in mastering React with TypeScript while building a tool that brings Old Norse literature to life for modern readers.
 
 SagaScape is a responsive single-page web application that allows users to read Old Norse texts with interactive word definitions. The app features a clean, intuitive interface where users can click any Old Norse word to instantly see its English meaning this simulates the experience of reading with a digital dictionary at hand.
 
@@ -43,7 +43,7 @@ My primary goals in building this software were:
 
 [Software Demo Video](https://youtu.be/ES7vUkfUDsY) *(YouTube link)*
 
-## 2 Web Pages
+## The 2 Web Pages
 
 ### Home Page (`/`)
 The landing page serves as an inviting entry point to the application:
@@ -70,12 +70,12 @@ The main reading interface where users interact with Old Norse text:
 The application uses React Router for seamless client-side routing:
 - Clicking "Start Reading" or "Begin Your Journey" smoothly transitions from Home to Reader
 - The "Home" link on the Reader page returns users to the landing page
-- All transitions occur without page reloads, creating a fluid single-page application experience
+- All transitions occur without page reloads, which creates a fluid single-page application experience
 
 ## Development Environment
 
 ### Tools
-- **VS Code**: Primary code editor with TypeScript support and ESLint integration
+- **WebStorm**: Primary code editor with TypeScript support
 - **Git & GitHub**: Version control and repository hosting
 - **Chrome DevTools**: Testing and debugging responsive design
 - **Terminal**: Running development server and package management
@@ -95,7 +95,7 @@ The application uses React Router for seamless client-side routing:
 - **Create React App**: Bootstrapped the project with optimal configuration
 - **npm**: Package management and script running
 
-## Useful Websites
+## Useful Websites used during development
 
 - [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/) - Essential reference for combining React with TypeScript
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Comprehensive guide to utility classes and responsive design
@@ -106,7 +106,7 @@ The application uses React Router for seamless client-side routing:
 
 ## Future Work
 
-While the current MVP successfully demonstrates core functionality, several enhancements would make SagaScape more powerful:
+While the current MVP successfully demonstrates the core functionality I wanted, several enhancements are needed to make SagaScape useful:
 
 - **Full Dictionary Integration**: Connect to the Cleasby-Vigfusson Old Norse dictionary API for comprehensive word definitions
 - **Multiple Texts**: Add more Eddas and Sagas (Hávamál, Grímnismál, Egil's Saga) with a text selector dropdown
